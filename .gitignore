@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 .DS_store
+=======
+# ignore .DS_Store
+.DS_Store
+>>>>>>> 323d7da3c403fcdfb52f863eb033f1130d1adbc0
