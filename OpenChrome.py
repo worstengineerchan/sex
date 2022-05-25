@@ -15,7 +15,6 @@ search.send_keys("@worst_se_chan")
 search.send_keys(Keys.ENTER)
 element = driver.find_element_by_partial_link_text("Twitter")
 element.click()
-sleep(5)
 
 # love me
 driver.get("https://twitter.com/worst_se_chan/status/1422905167180025869")
